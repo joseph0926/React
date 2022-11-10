@@ -3,7 +3,7 @@
 ## ch16 - 양식 및 입력 다루기 <br>
 (2022.11.11 ~ 2022.11.11)
 
-## ch10 = Reducer & Context <br>
+## ch10 - Reducer & Context <br>
 (2022.11.11 ~ 
 
 ## ch12 - React 최적화 <br>
